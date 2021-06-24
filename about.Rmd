@@ -8,3 +8,21 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me 
+**My name is Zuhair Usmani** and I go to Iroquios Ridge High School. I love to code and everything about it. To me, its very exicting to see your end product when coding.
+
+## About the Project
+My project, *Movie & TV Show Genre Trends*, explores the idea of  movies are using the same genres when making the movies and seeing which genres/tags are used the most.
+
+### Goals
+To see if Movie Producers are either:
+
+* Genre Spamming
+  + Hard to see if its one movie or lots of movies
+* Using one genre for every movie
+  + Hard to depict all the genres, because there are so many of them
+  
+“This is data science"  
+Preceptor
+
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)

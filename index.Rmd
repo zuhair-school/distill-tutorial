@@ -27,4 +27,3 @@ labs(title = "Fuel Efficeincy and Weight",
      y = "MPG")
 
 ```
-

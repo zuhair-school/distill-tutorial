@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-23T18:19:24-04:00"
+      "contents": "\r\nAbout Me\r\nMy name is Zuhair Usmani and I go to Iroquios Ridge High School. I love to code and everything about it. To me, its very exicting to see your end product when coding.\r\nAbout the Project\r\nMy project, Movie & TV Show Genre Trends, explores the idea of movies are using the same genres when making the movies and seeing which genres/tags are used the most.\r\nGoals\r\nTo see if Movie Producers are either:\r\nGenre Spamming\r\nHard to see if its one movie or lots of movies\r\n\r\nUsing one genre for every movie\r\nHard to depict all the genres, because there are so many of them\r\n\r\n“This is data science”\r\nPreceptor\r\nKane’s Free High School Data Science Bootcamp\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-23T20:55:03-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Is there one genre most producers are using?\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-23T18:19:29-04:00"
+      "last_modified": "2021-06-23T20:55:43-04:00"
     }
   ],
   "collections": []
